@@ -6,7 +6,7 @@ public class Main {
     public Main() {
 
         if (debug) {
-            //checking that the correct OS is being obtained
+            //checking that the  correct OS is being obtained
             System.out.println(System.getProperty("os.name"));
         }
 
